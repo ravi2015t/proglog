@@ -4,7 +4,6 @@ import (
 	"fmt"
 
 	"google.golang.org/genproto/googleapis/rpc/errdetails"
-	"google.golang.org/grpc/internal/status"
 	"google.golang.org/grpc/status"
 )
 
